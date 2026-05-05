@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Applied computer science in UCLL Belgium
 - 💞️ I’m looking to collaborate on a real life project where i could learn new stuffs
 - 📫 How to reach me on discord @rolandsone
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love music alot
 
 <!---
